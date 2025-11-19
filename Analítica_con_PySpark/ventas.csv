@@ -1,0 +1,7 @@
+Producto,Categoria,Region,Precio,Unidades_Vendidas
+Laptop,Electrónica,Norte,15000,30
+Tablet,Electrónica,Sur,7000,45
+Smartphone,Electrónica,Centro,9000,60
+Monitor,Periférico,Norte,4000,25
+Teclado,Periférico,Sur,800,80
+Mouse,Periférico,Centro,600,90
